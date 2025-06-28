@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 30,
+      "createdAt": "2024-01-01T12:00:00.000Z",
+      "updatedAt": "2024-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "age": 25,
+      "createdAt": "2024-01-01T13:00:00.000Z",
+      "updatedAt": "2024-01-01T13:00:00.000Z"
+    },
+    {
+      "id": "52dcbb22-9453-4091-bdeb-c834a98173d5",
+      "name": "João Silva",
+      "email": "joao@exemplo.com",
+      "age": 30,
+      "createdAt": "2025-06-28T23:39:51.792Z",
+      "updatedAt": "2025-06-28T23:39:51.792Z"
+    },
+    {
+      "id": "eae4dfaf-0fc2-4ee4-9acc-c5da96b0d276",
+      "name": "João Silva",
+      "email": "joao@exemplo.com",
+      "age": 30,
+      "createdAt": "2025-06-28T23:40:38.562Z",
+      "updatedAt": "2025-06-28T23:40:38.562Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "456e7890-f12c-34d5-b678-901234567890",
+      "title": "Hello World",
+      "content": "This is my first blog post!",
+      "authorId": "123e4567-e89b-12d3-a456-426614174000",
+      "published": true,
+      "createdAt": "2024-01-02T10:00:00.000Z",
+      "updatedAt": "2024-01-02T10:00:00.000Z"
+    }
+  ],
+  "qualquer-entidade": [
+    {
+      "id": "950c85a5-9dda-4acc-a722-6cb72b2f2932",
+      "campo": "valor",
+      "createdAt": "2025-06-28T23:45:31.421Z",
+      "updatedAt": "2025-06-28T23:45:31.421Z"
+    }
+  ]
+}
